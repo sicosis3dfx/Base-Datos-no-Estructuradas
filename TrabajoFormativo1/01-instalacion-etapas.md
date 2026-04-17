@@ -11,7 +11,7 @@ Paso a paso de la ejecución, configuración y verificación del software MongoD
 
 | Paso  |           Acción Realizada           |      Evidencia Visual     |
 
-|| **01** | Inicio del asistente de instalación. |
+| **01** | Inicio del asistente de instalación. |
 
 ![Paso  1](./img/1.png)   
 |
