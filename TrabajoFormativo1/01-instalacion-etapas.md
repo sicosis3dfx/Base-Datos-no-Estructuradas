@@ -52,14 +52,13 @@ Paso a paso de la ejecución, configuración y verificación del software MongoD
 ![Paso 10](./img/13.png)  
 
 
-# 3. Verificación de la Solución
-Para asegurar que el proceso fue exitoso, se procedió a realizar una prueba de estado a través de la interfaz de comandos:
+## 3. Verificación de la Solución (Consola Integrada)
+Para la ejecución de los scripts de la Unidad 2, se utilizará la **consola integrada de MongoDB Compass** (Mongoose Shell). Como se observa en la **Imagen 13**, se validó que el entorno reconoce los comandos esenciales:
 
-1. Se abrió una terminal de sistema (PowerShell/CMD).
+1. Se abrió la terminal para asegurar que el motor está respondiendo.
 2. Se ejecutó el comando: `mongosh --version`.
-3. El sistema retornó la versión del shell, confirmando que el servicio está activo y las variables de entorno están correctamente configuradas (ver **Imagen 13**).
+3. El retorno exitoso de la versión confirma que el motor está listo para recibir operaciones CRUD directamente desde la interfaz de Compass.
 
 
-
-# 4. Conclusión
-El proceso de instalación se ejecutó sin errores, logrando integrar tanto el motor de base de datos como la herramienta de administración visual. El sistema se encuentra operativo para iniciar las operaciones CRUD solicitadas.
+## 4. Conclusión
+El proceso de instalación fue completado satisfactoriamente por el equipo. Se ha verificado la integridad del motor de base de datos y la operatividad de las herramientas, dejando el sistema listo para la gestión de la "Tienda en Línea".
