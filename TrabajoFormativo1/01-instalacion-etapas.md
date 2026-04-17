@@ -53,7 +53,7 @@ Paso a paso de la ejecución, configuración y verificación del software MongoD
 
 
 ## 3. Verificación de la Solución (Consola Integrada)
-Para la ejecución de los scripts de la Unidad 2, se utilizará la **consola integrada de MongoDB Compass** (Mongoose Shell). Como se observa en la **Imagen 13**, se validó que el entorno reconoce los comandos esenciales:
+Para la ejecución de los scripts de la Unidad 2, se utilizará la **consola integrada de MongoDB Compass** (Mongoose Shell). Como se observa en la **Pendiente a subir**, se validó que el entorno reconoce los comandos esenciales:
 
 1. Se abrió la terminal para asegurar que el motor está respondiendo.
 2. Se ejecutó el comando: `mongosh --version`.
