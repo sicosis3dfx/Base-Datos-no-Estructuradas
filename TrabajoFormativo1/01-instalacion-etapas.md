@@ -13,34 +13,44 @@ Paso a paso de la ejecución, configuración y verificación del software MongoD
 | :---   |                                 :--- |                      :--- |
 | **01** | Inicio del asistente de instalación. |
 
-![Paso  1](./img/1.png)   |
+![Paso  1](./img/1.png)   
+|
 | **02** | Aceptación de términos y licencia.   |
 
-![Paso  2](./img/3.png)   |
+![Paso  2](./img/3.png)   
+|
 | **03** | Elección de instalación "Completa".  | 
 
-![Paso  3](./img/4.png)   |
+![Paso  3](./img/4.png)   
+|
 | **04** | Definición de rutas Data y Logs.     | 
 
-![Paso  4](./img/6.png)   |
+![Paso  4](./img/6.png)   
+|
 | **05** | Activación de MongoDB Compass.       | 
 
-![Paso  5](./img/7.png)   |
+![Paso  5](./img/7.png)   
+|
 | **06** | Confirmación antes de instalar.      | 
 
-![Paso  6](./img/8.png)   |
+![Paso  6](./img/8.png)   
+|
 | **07** | Ejecución de instalación de binarios.| 
 
-![Paso  7](./img/9.png)   |
+![Paso  7](./img/9.png)   
+|
 | **08** | Finalización del asistente.          | 
 
-![Paso  8](./img/10.png)  |
+![Paso  8](./img/10.png)  
+|
 | **09** | Inicialización de MongoDB Compass.   | 
 
-![Paso  9](./img/11.png)  |
+![Paso  9](./img/11.png)  
+|
 | **10** | Validación final con mongosh.        | 
 
-![Paso 10](./img/13.png)  |
+![Paso 10](./img/13.png)  
+|
 
 
 # 3. Verificación de la Solución
