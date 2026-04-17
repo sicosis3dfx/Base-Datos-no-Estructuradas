@@ -9,7 +9,7 @@ Paso a paso de la ejecución, configuración y verificación del software MongoD
 
 # 2. Paso a Paso de la Instalación (Ejecución del Setup)
 
-|| Paso  |           Acción Realizada           |      Evidencia Visual     |
+| Paso  |           Acción Realizada           |      Evidencia Visual     |
 
 | **01** | Inicio del asistente de instalación. |
 
@@ -50,7 +50,6 @@ Paso a paso de la ejecución, configuración y verificación del software MongoD
 | **10** | Validación final con mongosh.        | 
 
 ![Paso 10](./img/13.png)  
-|
 
 
 # 3. Verificación de la Solución
