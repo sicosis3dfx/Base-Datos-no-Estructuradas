@@ -1,11 +1,15 @@
-// Paso 1: Utilizar la base de datos.
+//1. utilizar la base de datos correspondiente
 "use tiendaEnLinea"
-db.createCollection("clientes")
+console.log("switched to db ecomerce")
 
-//Resultado
-console.log({ok: 1 })
+//2. crear coleccion clientes
+db.createColection("clientes")
+console.log({ ok: 1 })
 
-//Paso 3: 
-db.cientes.drop()
-// Resultado
-console.log(true)
+//3. mostrar colecciones
+"show clientes"
+console.log("clientes")
+
+//4. eliminar colecciones
+db.clientes.drop
+ console.log(true)
