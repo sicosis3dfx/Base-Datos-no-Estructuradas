@@ -1,5 +1,5 @@
 # Documentación de Instalación: MongoDB & MongoDB Compass
-**Asignatura:** TI3032 - Bases de Datos NoSQL  
+**Asignatura:** TI3032-u2 - Bases de Datos NoSQL  
 **Integrantes:** Angelo Zamora, Alexander Cortés  
 **Institución:** INACAP  
 
@@ -11,43 +11,43 @@ Paso a paso de la ejecución, configuración y verificación del software MongoD
 
 | Paso  |           Acción Realizada           |      Evidencia Visual     |
 
-| **01** | Inicio del asistente de instalación. |
+**01.** | Inicio del asistente de instalación. 
 
 ![Paso  1](./img/1.png)   
-|
-| **02** | Aceptación de términos y licencia.   |
+
+**02.** | Aceptación de términos y licencia.   
 
 ![Paso  2](./img/3.png)   
-|
-| **03** | Elección de instalación "Completa".  | 
+
+**03.** | Elección de instalación "Completa".  
 
 ![Paso  3](./img/4.png)   
-|
-| **04** | Definición de rutas Data y Logs.     | 
+
+**04.** | Definición de rutas Data y Logs.     
 
 ![Paso  4](./img/6.png)   
-|
-| **05** | Activación de MongoDB Compass.       | 
+
+**05.** | Activación de MongoDB Compass.       
 
 ![Paso  5](./img/7.png)   
-|
-| **06** | Confirmación antes de instalar.      | 
+
+**06.** | Confirmación antes de instalar.      
 
 ![Paso  6](./img/8.png)   
-|
-| **07** | Ejecución de instalación de binarios.| 
+
+**07.** | Ejecución de instalación de binarios.
 
 ![Paso  7](./img/9.png)   
-|
-| **08** | Finalización del asistente.          | 
+
+**08.** | Finalización del asistente.          
 
 ![Paso  8](./img/10.png)  
-|
-| **09** | Inicialización de MongoDB Compass.   | 
+
+**09.** | Inicialización de MongoDB Compass. 
 
 ![Paso  9](./img/11.png)  
-|
-| **10** | Validación final con mongosh.        | 
+
+**10.** | Validación final con mongosh.        
 
 ![Paso 10](./img/13.png)  
 
