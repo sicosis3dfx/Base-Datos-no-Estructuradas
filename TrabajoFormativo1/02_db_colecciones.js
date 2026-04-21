@@ -1,9 +1,9 @@
 //1. utilizar la base de datos correspondiente
 "use tiendaEnLinea"
-console.log("switched to db ecomerce")
+console.log("switched to db tiendaEnLinea")
 
 //2. crear coleccion clientes
-db.createColection("clientes")
+db.createCollection("clientes")
 console.log({ ok: 1 })
 
 //3. mostrar colecciones

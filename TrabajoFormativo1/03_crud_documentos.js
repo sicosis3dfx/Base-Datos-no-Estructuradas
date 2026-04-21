@@ -1,5 +1,3 @@
-"CRUD"
-
 // CREATE: Insertar clientes
 db.clientes.insertMany([
 {nombre : "Angelo Zamora",
