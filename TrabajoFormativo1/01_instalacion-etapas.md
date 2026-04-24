@@ -19,23 +19,23 @@ Paso a paso de la ejecución, configuración y verificación del software MongoD
 
 ![Paso  1](./img/1.png)   
 
-**02.** | Aceptación de términos y licencia.   
+**02.** | Elección de instalación "Completa".   
 
 ![Paso  2](./img/2.png)   
 
-**03.** | Elección de instalación "Completa".  
+**03.** | Definición de rutas Data y Logs. 
 
 ![Paso  3](./img/3.png)   
 
-**04.** | Definición de rutas Data y Logs.     
+**04.** | Instalación lista para continuar.     
 
 ![Paso  4](./img/4.png)   
 
-**05.** | Activación de MongoDB Compass.       
+**05.** | Inicio de progreso de la instalación.       
 
 ![Paso  5](./img/5.png)   
 
-**06.** | Confirmación antes de instalar.      
+**06.** | Actualizando componentes del registro.      
 
 ![Paso  6](./img/6.png)   
 
@@ -47,14 +47,10 @@ Paso a paso de la ejecución, configuración y verificación del software MongoD
 
 ![Paso  8](./img/8.png)  
 
-**09.** | Inicialización de MongoDB Compass. 
+ **09.** | Ejecución y/o validación final con mongosh.        
 
-![Paso  9](./img/9.png)  
+![Paso 10](./img/09.png)  
 
-**10.** | Validación final con mongosh.        
+**10.** | Vista consola mongosh.        
 
-![Paso 10](./img/10.png)  
-
-**11.** | Vista consola mongosh.        
-
-![Paso 11](./img/11.png)  
+![Paso 11](./img/10.png)  
