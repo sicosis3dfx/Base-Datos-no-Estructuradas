@@ -59,7 +59,7 @@ console.log({
   raza: 'Siamés',
   edad: 3,
   ficha: {
-    propietario: 'Maria Ignacia',
+    propietario: 'Alexander Cortés',
     contacto: '+56987654321',
     direccion: 'Batuco, Santiago'
   },
