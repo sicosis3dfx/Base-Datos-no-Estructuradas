@@ -15,7 +15,7 @@ console.log({
     direccion: 'Renca, Santiago'
   },
   historial: []
-}
+},
 {
   _id: ObjectId('69ee8b20336bc03300665e0a'),
   nombre: 'Luna',
