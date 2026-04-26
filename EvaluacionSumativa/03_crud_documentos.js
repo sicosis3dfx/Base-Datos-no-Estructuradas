@@ -1,4 +1,6 @@
-// Operaciones CRUD: Inserción de Documentos 
+//Operaciones CRUD: Inserción de Documentos 
+//Criterio 2.1.3: Ejecuta operaciones CRUD en documentos completos
+//Contenido: Inserción de pacientes (insertMany), consultas básicas (find).
 
 db.mascotas.insertMany([
     {
@@ -19,7 +21,7 @@ db.mascotas.insertMany([
         "raza": "Siamés",
         "edad": 3,
         "ficha": {
-            "propietario": "Maria Ignacia",
+            "propietario": "Alexander Cortés",
             "contacto": "+56987654321",
             "direccion": "Batuco, Santiago"
         },
@@ -38,3 +40,28 @@ db.mascotas.insertMany([
         "historial": []
     }
 ])
+
+console.log({
+  acknowledged: true,
+  insertedIds: {
+    '0': ObjectId('69ee8b20336bc03300665e09'),
+    '1': ObjectId('69ee8b20336bc03300665e0a'),
+    '2': ObjectId('69ee8b20336bc03300665e0b')
+  }
+})   
+
+db.mascotas.find({"nombre": "Luna"})
+
+console.log({
+  _id: ObjectId('69ee8b20336bc03300665e0a'),
+  nombre: 'Luna',
+  especie: 'Gato',
+  raza: 'Siamés',
+  edad: 3,
+  ficha: {
+    propietario: 'Maria Ignacia',
+    contacto: '+56987654321',
+    direccion: 'Batuco, Santiago'
+  },
+  historial: []
+})
