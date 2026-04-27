@@ -14,6 +14,6 @@ console.log({ ok: 1 })
 console.log("clientes")
 
 //4. eliminar colecciones
-db.clientes.drop
+db.clientes.drop()
 
 console.log(true)
