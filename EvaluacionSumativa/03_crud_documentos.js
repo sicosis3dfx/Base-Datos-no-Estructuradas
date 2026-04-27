@@ -1,5 +1,5 @@
 //Operaciones CRUD: Inserción de Documentos 
-//Criterio 2.1.3: Ejecuta operaciones CRUD en documentos completos
+//Ejecuta operaciones CRUD en documentos completos
 //Contenido: Inserción de pacientes (insertMany), consultas básicas (find).
 
 db.mascotas.insertMany([

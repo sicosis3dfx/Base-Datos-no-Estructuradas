@@ -1,5 +1,5 @@
-// Operaciones CRUD en Subdocumentos (Historial de Atenciones) 
-//Criterio 2.1.4: Ejecuta operaciones CRUD en subdocumentos y modelos lógicos
+//Operaciones CRUD en Subdocumentos (Historial de Atenciones) 
+//Ejecuta operaciones CRUD en subdocumentos y modelos lógicos
 //Contenido: Manipulación de los datos del dueño con Dot Notation y operaciones en el arreglo de historial médico usando $push y $pull.
 
 // 1. Agregar atención al arreglo historial de Thor ($push)

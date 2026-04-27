@@ -1,6 +1,6 @@
 // Búsqueda y Visualización de Documentos 
 
-// 1. Ver todas las mascotas registradas [cite: 43]
+// 1. Ver todas las mascotas registradas
 db.mascotas.find().pretty()
 
 console.log({
@@ -30,7 +30,7 @@ console.log({
   historial: []
 })
 
-// 2. Buscar mascotas de una especie específica [cite: 60, 69]
+// 2. Buscar mascotas de una especie específica
 db.mascotas.find({ "especie": "Perro" })
 
 console.log({
